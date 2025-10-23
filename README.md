@@ -10,17 +10,17 @@
 <table>
   <tr>
     <td align="center">
-      <img src="./original.png" width="400px" alt="Wallpaper 1"/><br />
+      <img src="./original.png" width="400px" alt="Original"/><br />
       <b>Original</b>
     </td>
     <td align="center">
-      <img src="./ttchermu.png" width="400px" alt="Wallpaper 2"/><br />
+      <img src="./ttchermu.png" width="400px" alt="ttchermu"/><br />
       <b>ttchermu</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="./erahal.png" width="400px" alt="Wallpaper 3"/><br />
+      <img src="./erahal.png" width="400px" alt="erahal"/><br />
       <b>erahal</b>
     </td>
 </table>
