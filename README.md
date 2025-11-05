@@ -1,6 +1,6 @@
 <header style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 60px 20px; text-align: center;">
     <h1 style="font-size: 3em; margin: 0 0 10px 0;">🎨 Wallpaper Collection</h1>
-    <p style="font-size: 1.2em; opacity: 0.9; margin: 0;">Stunning, high-quality custom wallpapers for everyone at 42 Nice.</p>
+    <p style="font-size: 1.2em; opacity: 0.9; margin: 0;">Stunning, jaw-dropping, high-quality custom wallpapers for everyone at 42 Nice.</p>
 </header>
 
 <div style="max-width: 1200px; margin: 0 auto; padding: 40px 20px;">
