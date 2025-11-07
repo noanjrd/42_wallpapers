@@ -15,7 +15,7 @@
     </td>
     <td align="center">  
       <img src="./cngogang.png" width="400px" alt="cngogang"/><br />
-      <b>Original</b>
+      <b>cngogang</b>
     </td>
     </td>
     <tr>
