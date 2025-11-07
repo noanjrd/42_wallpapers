@@ -13,12 +13,16 @@
       <img src="./original.png" width="400px" alt="Original"/><br />
       <b>Original</b>
     </td>
-    <td align="center">
-      <img src="./erahal.png" width="400px" alt="erahal"/><br />
-      <b>erahal</b>
+    <td align="center">  
+      <img src="./cngogang.png" width="400px" alt="cngogang"/><br />
+      <b>Original</b>
     </td>
     </td>
     <tr>
+     <td align="center">
+      <img src="./erahal.png" width="400px" alt="erahal"/><br />
+      <b>erahal</b>
+    </td>
     <td align="center">
       <img src="./ttchermu.png" width="400px" alt="ttchermu"/><br />
       <b>ttchermu</b>
