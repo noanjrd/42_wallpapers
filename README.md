@@ -10,27 +10,27 @@
 <table>
   <tr>
     <td align="center">
-      <img src="./original.png" width="400px" alt="Original"/><br />
+      <img src="./wallpapers/original.png" width="400px" alt="Original"/><br />
       <b>Original</b>
     </td>
     <td align="center">
-      <img src="./construction.png" width="400px" alt="sbehar"/><br />
+      <img src="./wallpapers/construction.png" width="400px" alt="sbehar"/><br />
       <b>sbehar</b>
     </td>
   </tr>
   <tr>
     <td align="center">  
-      <img src="./cngogang.png" width="400px" alt="cngogang"/><br />
+      <img src="./wallpapers/cngogang.png" width="400px" alt="cngogang"/><br />
       <b>cngogang</b>
     </td>
     <td align="center">
-      <img src="./erahal.png" width="400px" alt="erahal"/><br />
+      <img src="./wallpapers/erahal.png" width="400px" alt="erahal"/><br />
       <b>erahal</b>
     </td>
   </tr>
   <tr>
     <td align="center" >
-      <img src="./ttchermu.png" width="400px" alt="ttchermu"/><br />
+      <img src="./wallpapers/ttchermu.png" width="400px" alt="ttchermu"/><br />
       <b>ttchermu</b>
     </td>
   </tr>
