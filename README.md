@@ -15,7 +15,7 @@
     </td>
     <td align="center">
       <img src="./wallpapers/construction.png" width="400px" alt="sbehar"/><br />
-      <b>sbehar</b>
+      <i>sbehar</i>
     </td>
   </tr>
   <tr>
