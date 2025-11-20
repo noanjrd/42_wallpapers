@@ -14,8 +14,8 @@
       <b>Original</b>
     </td>
     <td align="center">
-      <img src="./wallpapers/construction.png" width="400px" alt="sbehar"/><br />
-      <i>cmontaig</i>
+      <img src="./wallpapers/cmontaig.png" width="400px" alt="cmontaig"/><br />
+      <b>cmontaig</b>
     </td>
   </tr>
   <tr>
