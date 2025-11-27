@@ -21,7 +21,7 @@
   <tr>
     <td align="center">
       <img src="./wallpapers/macorso.png" width="400px" alt="macorso"/><br />
-      <i>macorso</i>
+      <b>macorso</b>
     </td>
     <td align="center">  
       <img src="./wallpapers/cmontaig.png" width="400px" alt="cmontaig"/><br />
