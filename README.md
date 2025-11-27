@@ -43,7 +43,6 @@
       <img src="./wallpapers/ttchermu.png" width="400px" alt="ttchermu"/><br />
       <b>ttchermu</b>
     </td>
-    <td></td>
   </tr>
 </table>
 
