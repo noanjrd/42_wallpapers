@@ -15,7 +15,7 @@
     </td>
     <td align="center">
       <img src="./wallpapers/construction.png" width="400px" alt="Nouvelle"/><br />
-      <i></i>
+      <i>thobenel</i>
     </td>
   </tr>
   <tr>
