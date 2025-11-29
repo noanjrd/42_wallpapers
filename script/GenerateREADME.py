@@ -5,10 +5,10 @@ order = ["ttchermu", "erahal", "cngogang", "cmontaig", "macorso", "fdiop"]
 nameofworkinprogress = "thobenel"
 
 
-with open("code/READMEpart1.html", "r", encoding="utf-8") as src:
+with open("script/READMEpart1.html", "r", encoding="utf-8") as src:
     content = src.read()
 
-with open("code/READMEpart2.html", "r", encoding="utf-8") as src2:
+with open("script/READMEpart2.html", "r", encoding="utf-8") as src2:
     contentend = src2.read()
 
 content = content.replace("NAMETOBEREPLACED", nameofworkinprogress)
@@ -17,7 +17,7 @@ with open("README.md", "w", encoding="utf-8") as readme:
 
 
 	l = len(order)-1
-	print(math.ceil((l+1)/2))
+	# print(math.ceil((l+1)/2))
 	for i in range(math.ceil((l+1)/2)):
 		html = "	<tr>"
 		html += f"""
