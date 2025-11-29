@@ -5,14 +5,14 @@ order = ["ttchermu", "erahal", "cngogang", "cmontaig", "macorso", "fdiop"]
 nameofworkinprogress = "thobenel"
 
 
-with open("READMEpart1.html", "r", encoding="utf-8") as src:
+with open("code/READMEpart1.html", "r", encoding="utf-8") as src:
     content = src.read()
 
-with open("READMEpart2.html", "r", encoding="utf-8") as src2:
+with open("code/READMEpart2.html", "r", encoding="utf-8") as src2:
     contentend = src2.read()
 
 content = content.replace("NAMETOBEREPLACED", nameofworkinprogress)
-with open("../README.md", "w", encoding="utf-8") as readme:
+with open("README.md", "w", encoding="utf-8") as readme:
 	readme.write(content)
 
 
