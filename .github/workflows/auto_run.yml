@@ -19,4 +19,4 @@ jobs:
           python-version: "3.11"
 
       - name: Run the script
-        run: python GenerateREADME.py
+        run: python code/GenerateREADME.py
