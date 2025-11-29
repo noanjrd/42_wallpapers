@@ -38,6 +38,3 @@ with open("../README.md", "w", encoding="utf-8") as readme:
 		
 	readme.write("	</table>\n")
 	readme.write(contentend)
-
-
-	# print(filenb)
