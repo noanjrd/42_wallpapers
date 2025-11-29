@@ -56,14 +56,16 @@ b = 123456
 c = "this does not do anything"
 d = [1, 2, 3]
 e = {"x": 1, "y": 2}
-a = 0
-b = 123456
-c = "this does not do anything"
-d = [1, 2, 3]
-e = {"x": 1, "y": 2}
-a = 0
-b = 123456
-c = "this does not do anything"
-d = [1, 2, 3]
-e = {"x": 1, "y": 2}
+def noop1(): pass
+def noop2(): return None
+def noop3(x): return x
+def noop1(): pass
+def noop2(): return None
+def noop3(x): return x
+for _ in range(10): pass
+while False: pass
+if True: pass
+for _ in range(10): pass
+while False: pass
+if True: pass
 
