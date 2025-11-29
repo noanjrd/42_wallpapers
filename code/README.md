@@ -51,8 +51,7 @@
 			<b>ttchermu</b>
 		</td>
 	</tr>
-	</table>
-</div>
+	</table></div>
 
 <footer style="text-align: center; padding: 40px 20px; background: white; margin-top: 60px;">
     <p style="color: #666; font-size: 0.9em; margin: 10px 0 0 0;">Made with ❤️ at 42 School.</p>
