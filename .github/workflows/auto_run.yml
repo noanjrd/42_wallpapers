@@ -20,3 +20,18 @@ jobs:
 
       - name: Run the script
         run: python code/GenerateREADME.py
+
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit README
+        run: |
+          git add README.md
+          git commit -m "Update README" || echo "No changes to commit"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
