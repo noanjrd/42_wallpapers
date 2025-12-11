@@ -22,7 +22,7 @@
       </td>
       <td align="center">
         <img src="./wallpapers/construction.png" width="400px" alt="Nouvelle" /><br />
-        <i>thobenel</i>
+        <i>mmidalic</i>
       </td>
     </tr>	<tr>
 		<td align="center">
