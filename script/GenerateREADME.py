@@ -2,7 +2,7 @@ import os
 import math
 
 order = ["ttchermu", "erahal", "cngogang", "cmontaig", "macorso", "fdiop"]
-nameofworkinprogress = "thobenel"
+nameofworkinprogress = "mmidalic"
 
 
 with open("script/READMEpart1.html", "r", encoding="utf-8") as src:
