@@ -1,7 +1,7 @@
 import os
 import math
 
-order = ["ttchermu", "erahal", "cngogang", "cmontaig", "macorso", "fdiop"]
+order = ["ttchermu", "erahal", "cngogang", "cmontaig", "macorso", "fdiop", "ggirault"]
 nameofworkinprogress = "mmidalic"
 
 
