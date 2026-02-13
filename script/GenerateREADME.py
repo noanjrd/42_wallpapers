@@ -1,8 +1,8 @@
 import os
 import math
 
-order = ["ttchermu", "erahal", "cngogang", "cmontaig", "macorso", "fdiop", "ggirault"]
-nameofworkinprogress = "mmidalic"
+order = ["ttchermu", "erahal", "cngogang", "cmontaig", "macorso", "fdiop", "ggirault", "mmidalic"]
+nameofworkinprogress = "naankour"
 
 
 with open("script/READMEpart1.html", "r", encoding="utf-8") as src:
